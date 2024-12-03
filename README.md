@@ -49,4 +49,4 @@ If no subdirectory is provided, it uses the default path.
 
 ## Future Integration
 
-This plugin can be part of a larger project. [Include your future project name here.]
+This plugin can be part of a larger project, but now is WIP.
